@@ -1,0 +1,19 @@
+table{
+    width: 70%;
+    background-color: white;
+    border: solid #c0c0c0 2px;
+    padding: 10px
+}
+*{
+    margin: 0 auto;
+}
+th{
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 5px 10px;
+}
+td{
+    border: solid #ededed;
+    padding: 5px 10px;
+}
